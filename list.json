@@ -1,0 +1,39 @@
+
+{
+    "contacts": [
+        {
+            "user": "NorthCamp",
+            "status": "online"
+        },
+        {
+            "user": "Profesor",
+            "status": "online"
+        },
+        {
+            "user": "Abel",
+            "status": "offline"
+        },
+        {
+            "user": "alfonso",
+            "status": "offline"
+        },
+        {
+            "user": "criswalvarez",
+            "status": "offline"
+        },
+        {
+            "user": "franamaterasu",
+            "status": "offline"
+        },
+        {
+            "user": "veronicajn",
+            "status": "offline"
+        },
+        {
+            "user": "Mr.Robato",
+            "status": "online"
+        },
+    ]
+}
+
+
